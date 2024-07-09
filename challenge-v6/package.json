@@ -11,7 +11,14 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "@chain-registry/client": "^1.48.16",
+    "@chain-registry/types": "^0.45.18",
+    "buffer": "^6.0.3",
+    "chain-registry": "^1.63.18",
+    "mobx": "^6.13.0",
+    "mobx-react-lite": "^4.0.7",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
